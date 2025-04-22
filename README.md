@@ -11,3 +11,7 @@ This is a simple benchmark comparing the performance of [Elysia](https://elysiaj
 ## Results
 
 ![results](results.png)
+
+## Requests latency
+
+![latency](latency.png)
